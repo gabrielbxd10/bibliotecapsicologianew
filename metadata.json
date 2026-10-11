@@ -1,0 +1,6 @@
+{
+  "name": "Biblioteca de Psicología",
+  "description": "Organiza tus estudios de Psicología con 11 módulos y 353 páginas. Biblioteca completa con 5 bonos por US$ 9,90.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
